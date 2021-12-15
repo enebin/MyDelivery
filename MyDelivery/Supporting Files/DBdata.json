@@ -1,0 +1,69 @@
+[
+    {
+        "imageURL":"african.jpg",
+        "food": "African",
+        "name": "Ace",
+        "location": "Ethiopia",
+        "rating": 4.8,
+        "tags": ["coupon", "To go"],
+    },
+    {
+        "imageURL":"asian.png",
+        "food": "Asian",
+        "name": "Spade",
+        "location": "Korea",
+        "rating": 5.0,
+        "tags": ["On sale"],
+    },
+    {
+        "imageURL":"europian.jpg",
+        "food": "Europian",
+        "name": "Diamond",
+        "location": "Italia",
+        "rating": 4.7,
+        "tags": ["To go"],
+    },
+    {
+        "imageURL":"american.jpg",
+        "food": "American",
+        "name": "Heart",
+        "location": "USA",
+        "rating": 4.9,
+        "tags": ["coupon", "To go", "On sale"],
+    },
+    {
+        "imageURL":"oceanian.jpg",
+        "food": "Oceanian",
+        "name": "Joker",
+        "location": "Australia",
+        "rating": 4.6,
+        "tags": ["On sale"],
+    },
+    
+    {
+        "imageURL":"asian.png",
+        "food": "Oceanian",
+        "name": "King",
+        "location": "New Zealand",
+        "rating": 4.68,
+        "tags": ["On sale", "To go"],
+    },
+    
+    {
+        "imageURL":"african.jpg",
+        "food": "African",
+        "name": "Queen",
+        "location": "Egypt",
+        "rating": 4.4,
+        "tags": ["coupon"],
+    },
+    
+    {
+        "imageURL":"europian.jpg",
+        "food": "Europian",
+        "name": "Jack",
+        "location": "Italy",
+        "rating": 4.3,
+        "tags": [],
+    },
+]
